@@ -1,3 +1,6 @@
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6dc1e8fb-c3d5-4fd0-98a8-4c35f3b46583" />
+
+
 📌 Project Overview
 
 This project presents a Sales Performance Dashboard built entirely in Microsoft Excel, designed to track and analyze key performance indicators (KPIs) for a retail-style business.
